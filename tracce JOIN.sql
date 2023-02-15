@@ -1,4 +1,4 @@
--- ---------------------------------------  QUERY CON SELECT
+-- ---------------------------------------  QUERY CON JOIN
 
 -- 1. Selezionare tutti gli studenti iscritti al Corso di Laurea in Economia
 
